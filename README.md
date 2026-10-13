@@ -47,12 +47,12 @@ Here are a few projects I've worked on:
 ### 🚀 [Project 1 - Portofolio Website]
 
 - **Description:** I developed this website to showcase my projects, built with**Tailwind, HTML, CSS, and JavaScript**, focusing on a clean and responsive design.
-- **View Code:** [**HERE!**](https://github.com/zo4yz/portofolio)
+- **View Code:** [**HERE!**](https://github.com/ballrifai/portofolio)
 
 ### 📚 [Project 2 - Example Website For Girlfriend]
 
 - **Description:** I developed this website to example what I made for the project. with built with **Tailwind, HTML, CSS, and Javascript**.
-- **View Code:** [**HERE!**](https://github.com/zo4yz/homepage-1year-anniv)
+- **View Code:** [**HERE!**](https://github.com/ballrifai/homepage-1year-anniv)
 
 ---
 
